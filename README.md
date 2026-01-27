@@ -1,8 +1,8 @@
-## Hi there, I'm Madeline 👋
+## Hey, I'm Madeline
 
-I am a software engineer with experience in web development (front-end and back-end), general purpose programming, and database  architecture. I like working on projects that challenge me as a developer and push me to learn new tools, strategies, and design. My current focuses are web development, APIs, and cryptography.
+I spend most of my time writing code, learning, and talking to people who share my interests. I am currently working on an implementation of the MLS (Messaging Layer Security) Protocol, and I hope to share part of this project with you soon.
 
-### Technologies
+### Technology Stack (Current Project)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Biome](https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white)
@@ -21,4 +21,3 @@ I am a software engineer with experience in web development (front-end and back-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
