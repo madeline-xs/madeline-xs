@@ -3,12 +3,12 @@
 I'm a software developer with a background in building production systems and an interest in **web development**, **security**, and **cryptography**. Professionally, I have worked on APIs, data pipelines, and enterprise web applications, and alongside that, I have maintained a parallel track of self-directed learning that has led me to the work I find most compelling.
 
 
-## Approach ⭐
+## Approach
 
-To me, the fun of programming is in the *process* of deepening my understanding and iteratively refining my skills. The more I learn, the more I notice how much I don't yet know. I stay curious and open to the idea that my ideas and solutions can be improved upon. I think it is important to listen to other perspectives, and I have learned as much from engineers early in their experience as from those well into their careers.
+To me, the fun of programming is in the *process* of deepening my understanding and iteratively refining my skills. The more I learn, the more I notice how much I don't yet know. I stay curious and open to the idea that my ideas and solutions can be improved upon. I think it is important to listen to other perspectives, and I have learned as much from engineers early in their experience as I have from those well into their careers.
 
 
-## What I'm Working On 🔑
+## What I'm Working On
 
 ### Messaging Layer Security [RFC 9420](https://www.rfc-editor.org/rfc/rfc9420)
 #### Full Implementation in TypeScript
@@ -18,7 +18,7 @@ A from-scratch implementation of the MLS asynchronous group key exchange protoco
 The implementation uses only the WebCrypto API and fully implements MLS's dependency, [HPKE (RFC 9180)](https://www.rfc-editor.org/rfc/rfc9180), providing compatibility with all major browsers without relying on external dependencies. The goal is to ship a ready-to-use library that developers can integrate into communication apps to add End to End Encryption capability. This is a project I am personally passionate about, as I feel that data privacy and strong encryption make the Internet safer for everyone.
 
 
-## Tech Stack ⚡
+## Tech Stack
 
 ### Langauges
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
