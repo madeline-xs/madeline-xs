@@ -1,6 +1,6 @@
 ## Hey there, I'm Madeline 👋
 
-I'm a software developer with a background in building production systems and an interest in **web development**, **security**, and **cryptography**. Professionally, I have worked on APIs, data pipelines, and enterprise web applications, and alongside that, I have maintained a parallel track of self-directed learning that has led the work I find most compelling.
+I'm a software developer with a background in building production systems and an interest in **web development**, **security**, and **cryptography**. Professionally, I have worked on APIs, data pipelines, and enterprise web applications, and alongside that, I have maintained a parallel track of self-directed learning that has led me to the work I find most compelling.
 
 
 ## Approach ⭐
