@@ -1,6 +1,6 @@
 ## Hello, I'm Madeline
 
-I am a self-directed software engineer working to implement cryptographic standards that strengthen user privacy. Previously I worked on production systems in the healthcare and financial sectors.
+I am a software engineer working to implement cryptographic standards that strengthen user privacy. Previously I worked on production systems in the healthcare and financial sectors.
 
 ### misaka-mls
 
